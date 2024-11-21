@@ -1,7 +1,5 @@
-# EG-HACKATHON
-# Legacy-Lift AI
 
-Legacy-Lift AI is a web application that converts legacy code into modern programming languages. It utilizes machine learning models such as Deep Q-learning and Natural Language Understanding (NLU) to analyze and translate legacy code snippets. The application features a chatbot powered by the GPT-3 API to assist users with code documentation and queries.
+Developed an AI-driven solution to automate the migration of legacy code from Delphi, Cobol and VB to modern technologies such as C and Java, significantly reducing manual effort and errors. It utilizes machine learning models such as Deep Q-learning and Natural Language Understanding (NLU) to analyze and translate legacy code snippets. The application features a chatbot powered by the GPT-3 API to assist users with code documentation and queries.
 
 ## Features
 
